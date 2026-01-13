@@ -1,3 +1,5 @@
+<img width="867" height="522" alt="image" src="https://github.com/user-attachments/assets/65e550ee-329c-4cd4-8220-c56386f8e96a" />
+
 Employee Insights Dashboard (Power BI)
 
 This repository contains an Employee Insights Dashboard built in Power BI, alongside a supporting report. The project focuses on using HR data to better understand workforce structure, performance, compensation, and workload distribution across departments.
@@ -14,9 +16,6 @@ Key Focus Areas
 4. Salary patterns across departments
 5. Employee tenure and retention
 6. Overtime workload by department
-
-<img width="867" height="522" alt="image" src="https://github.com/user-attachments/assets/1a17c938-bccc-4e44-8c13-82b1c50891ab" />
-
 
 Tools Used
 
