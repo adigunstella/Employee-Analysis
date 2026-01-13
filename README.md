@@ -15,6 +15,9 @@ Key Focus Areas
 5. Employee tenure and retention
 6. Overtime workload by department
 
+<img width="867" height="522" alt="image" src="https://github.com/user-attachments/assets/1a17c938-bccc-4e44-8c13-82b1c50891ab" />
+
+
 Tools Used
 
 1. Power BI
