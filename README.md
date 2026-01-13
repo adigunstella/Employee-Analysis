@@ -7,6 +7,7 @@ Project Overview
 The dashboard brings key employee metrics into a single interactive view, making it easier to identify trends, strengths, and areas that may require attention. It is designed to support data-driven decision-making in workforce and HR operations.
 
 Key Focus Areas
+
 	•	Workforce size and structure
 	•	Employee distribution by department, gender, and country
 	•	Performance ratings and high-performing employees
@@ -15,9 +16,11 @@ Key Focus Areas
 	•	Overtime workload by department
 
 Tools Used
+
 	•	Power BI
 	•	Power Query for data cleaning and transformation
 	•	DAX for calculated measures and KPIs
 
 Additional Files
+
 •	Employee Insights Dashboard Report (PDF): Provides detailed explanations of objectives, data preparation steps, key insights, and conclusions drawn from the analysis.
