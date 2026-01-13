@@ -8,18 +8,18 @@ The dashboard brings key employee metrics into a single interactive view, making
 
 Key Focus Areas
 
-	•	Workforce size and structure
-	•	Employee distribution by department, gender, and country
-	•	Performance ratings and high-performing employees
-	•	Salary patterns across departments
-	•	Employee tenure and retention
-	•	Overtime workload by department
+	•Workforce size and structure
+	•Employee distribution by department, gender, and country
+	•Performance ratings and high-performing employees
+	•Salary patterns across departments
+	•Employee tenure and retention
+	•Overtime workload by department
 
 Tools Used
 
-	•	Power BI
-	•	Power Query for data cleaning and transformation
-	•	DAX for calculated measures and KPIs
+	•Power BI
+	•Power Query for data cleaning and transformation
+	•DAX for calculated measures and KPIs
 
 Additional Files
 
