@@ -19,9 +19,9 @@ Key Focus Areas
 
 Key Findings 
 
-• Overall workforce performance is 79.4%  
-• Quality Control and Manufacturing departments have the highest overtime workload 
-• Employee count peaked in 2019 and declined afterward  
+1. Overall workforce performance is 79.4%  
+2. Quality Control and Manufacturing departments have the highest overtime workload 
+3. Employee count peaked in 2019 and declined afterward  
 
 
 Tools Used
@@ -32,10 +32,11 @@ Tools Used
 
 
 Recommendations 
-• Reduce overtime in high-pressure departments to improve employee well-being  
-• Promote diversity and inclusion to address gender imbalance  
-• Apply best practices from high-performing teams to enhance overall performance  
-• Strengthen workforce planning to manage employee trends effectively  
+
+1. Reduce overtime in high-pressure departments to improve employee well-being  
+2. Promote diversity and inclusion to address gender imbalance  
+3. Apply best practices from high-performing teams to enhance overall performance  
+4. Strengthen workforce planning to manage employee trends effectively  
 
 Additional Files
 
