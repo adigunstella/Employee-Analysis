@@ -22,6 +22,7 @@ Key Findings
 
 • Overall workforce performance is 79.4%  
 • Quality Control and Manufacturing departments have the highest overtime workload 
+
 • Employee count peaked in 2019 and declined afterward  
 
 
