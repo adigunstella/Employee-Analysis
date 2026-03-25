@@ -17,6 +17,13 @@ Key Focus Areas
 5. Employee tenure and retention
 6. Overtime workload by department
 
+Key Findings 
+• Overall workforce performance is 79.4%  
+•  Quality Control and Manufacturing departments have the highest overtime workload 
+• The workforce is 65% male  
+• Employee count peaked in 2019 and declined afterward  
+
+
 Tools Used
 
 1. Power BI
