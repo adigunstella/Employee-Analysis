@@ -14,15 +14,13 @@ Key Focus Areas
 2. Employee distribution by department, gender, and country
 3. Performance ratings and high-performing employees
 4. Salary patterns across departments
-5. Employee tenure and retention
-6. Overtime workload by department
+5. Overtime workload by department
 
 
 Key Findings 
 
 • Overall workforce performance is 79.4%  
 • Quality Control and Manufacturing departments have the highest overtime workload 
-
 • Employee count peaked in 2019 and declined afterward  
 
 
@@ -31,6 +29,13 @@ Tools Used
 1. Power BI
 2. Power Query for data cleaning and transformation
 3. DAX for calculated measures and KPIs
+
+
+Recommendations 
+• Reduce overtime in high-pressure departments to improve employee well-being  
+• Promote diversity and inclusion to address gender imbalance  
+• Apply best practices from high-performing teams to enhance overall performance  
+• Strengthen workforce planning to manage employee trends effectively  
 
 Additional Files
 
